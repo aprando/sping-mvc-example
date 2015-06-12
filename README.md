@@ -1,2 +1,2 @@
-# sping-mvc-example
+# spring-mvc-example
 A simple example using Spring and Hibernate.
